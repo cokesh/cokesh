@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <p>
   <a href="https://www.notion.so/TIL-68c0c6ceaa6d455abf295bedc0afb959" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:tmdgus5611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tmdgus5611@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/eonsh11-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
